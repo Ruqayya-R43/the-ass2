@@ -1,7 +1,7 @@
 #background-img{
     background-image: url(WhatsApp\ Image\ 2024-01-11\ at\ 07.03.47_4e1b6a43.jpg);
     height: 600px;
-    width: 1290px;
+    width: 1300px;
     background: cover;
     background-position: center;
 }
@@ -59,7 +59,7 @@ a:hover{
 
 #div2{
     margin-left: 390px;
-    padding: 90px;
+    padding: 20px;
 }
 #but2{
     margin: 15px;
@@ -106,7 +106,7 @@ span{
 }
 #div4{
     margin-left: 390px;
-    padding: 90px;
+    padding: 20px;
 }
 #div4h1{
     margin-left: 100px ;
@@ -200,7 +200,7 @@ img{
 
 #div5{
     margin-left: 390px;
-    padding: 90px;
+    padding: 20px;
 }
 #div5h1{
     margin-left: 80px ;
@@ -229,7 +229,7 @@ img{
 }
 #div6{
     margin-left: 390px;
-    padding: 90px;}
+    padding: 20px;}
 #but5{
         margin: 15px;
         margin-left: 180px;
@@ -245,55 +245,17 @@ img{
     margin-left: 170px;
 }
 @media (max-width=600px) {
-    #background-img{
-        height: 50px;
-        width: 2px;
-    }
+  #background-img{
+    width: 100px;
+    height: 100px;
+  }
+  #div1{
+    width: 100px;
+    height: 100px;
+  }
+ .icondiv{
+    flex-wrap: wrap;
+ }
 
-    #nav{
-        height: 100px;
-        width: 100px;
-    }
-    #div1{
-        height: 100px;
-        width: 100px;
-    }
-
-    #div-welcome{
-height: 50px;
-width: 100px;
-    }
-    #div2{
-        height: 20px;
-        width: 300px;
-    }
-#div3{
-    height: 100px;
-    width: 100px;
-}
-.icondiv{
-    height: 200px;
-    width: 300px;
-}
-#div4{
-    height: 100px;
-    width: 100px;
-}
-#img-div1{
-    height: 100px;
-    width: 300px;
-}
-#div5{
-    height: 100px;
-    width: 100px;
-}
-#img-div2{
-    height: 100px;
-    width: 100px;
-}
-#div6{
-    height: 100px;
-    width: 100px;
-}
 
 }
